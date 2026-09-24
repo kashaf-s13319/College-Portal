@@ -1,0 +1,6 @@
+{
+  "name": "College Event Registrations",
+  "description": "A college event registration portal with event listings, duplicate-protected student registration, registration verification, and Supabase database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
